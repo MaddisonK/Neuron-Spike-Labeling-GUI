@@ -9,3 +9,8 @@ The input file will be "trace.npz", which can be downloaded as an example file i
 The program collects the labels from the GUI in two python lists `main list` and `dub list`, printing them out at the end, but they can be easily converted and saved as npz files.
 
 I hope you find this GUI useful and easy to use! A demonstration of it is below.
+
+
+
+https://user-images.githubusercontent.com/65694382/137035181-eaf16952-a32d-4ac1-b99c-58b511b6cbfa.mp4
+
