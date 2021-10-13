@@ -1,0 +1,4 @@
+numpy==1.21.2
+matplotlib==3.4.3
+pyqtgraph==0.12.3
+PyQt5==5.15.4
